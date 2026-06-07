@@ -178,12 +178,3 @@ O **SatTherm ** demonstra uma aplicação de Edge Computing em um cenário aeroe
 
 O sistema opera de forma offline, exibe telemetria local no LCD e responde automaticamente a situações críticas, simulando o comportamento esperado de um subsistema embarcado de missão crítica.
 
----
-
-## 13. Integrantes
-
-| Nome | RM | Turma |
-|---|---|---|
-| Nome do integrante 1 | RM | Turma |
-| Nome do integrante 2 | RM | Turma |
-| Nome do integrante 3 | RM | Turma |
