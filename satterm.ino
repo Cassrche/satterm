@@ -1,7 +1,7 @@
 #include <LiquidCrystal.h>
 #include <Servo.h>
 
-// THERMALSAT - Sistema autonomo de controle termico e energetico
+// satterm - Sistema autonomo de controle termico e energetico
 
 
 const int PIN_TEMP = A0;
