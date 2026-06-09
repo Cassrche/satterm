@@ -1,8 +1,14 @@
-# SatTherm G
+# Satterm
 
 Sistema embarcado autônomo para monitoramento térmico e energético de um nanossatélite, desenvolvido para a disciplina **Edge Computing & Computer Systems**.
 
 O projeto simula um subsistema aeroespacial de missão crítica, capaz de monitorar temperatura e bateria, processar os dados localmente e acionar alarmes ou atuadores de forma automática, sem depender de conexão externa.
+
+**Participantes:**
+- Cassiano Assumpção
+- Pedro Perraro
+- Artur Figueiredo Vianna
+- Turma 1EESPR-2026
 
 ---
 
@@ -10,7 +16,7 @@ O projeto simula um subsistema aeroespacial de missão crítica, capaz de monito
 
 Em dispositivos aeroespaciais, como nanossatélites, o acesso físico humano é limitado ou inexistente após o lançamento. Por isso, o sistema embarcado precisa ser capaz de tomar decisões locais de forma autônoma.
 
-O **SatTherm ** foi projetado para atuar sobre dois riscos principais:
+O **satterm ** foi projetado para atuar sobre dois riscos principais:
 
 - **Temperatura inadequada**, que pode danificar componentes eletrônicos;
 - **Baixo nível de bateria**, que exige desligamento de cargas não críticas para preservar a missão.
